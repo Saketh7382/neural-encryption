@@ -6,11 +6,9 @@ Created on Sun Mar 22 18:44:02 2020
 @author: cp
 """
 
-from additional import AdditionalFunctions
 import json
 import io
 
-from additional import AdditionalFunctions
 from encryptor import Encryptor
 try:
     to_unicode = unicode

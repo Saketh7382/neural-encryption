@@ -1,0 +1,22 @@
+Test name : decryptor_100_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 10.021700652821508
+Decryption error : 9 %
+Time : 314.63888951300039
+
+
+Test name : decryptor_9_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 6.060020106333487
+Decryption error : 6 %
+Time : 314.134288681001646
+
+
+Test name : decryptor_6_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 10.089076018954
+Decryption error : 10 %
+Time : 312.92091386700486

@@ -1,0 +1,8 @@
+Hello good afternoon ladies and gentlemen.
+This is the official testing document for encryptor & decryptor efficiency.
+The following message is just a garbage and is only checked for efficiency
+A
+G
+BhjUi
+$342@/.dj
+jSjjd

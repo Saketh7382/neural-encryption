@@ -1,0 +1,47 @@
+Test name : decryptor_1_test
+Layers : [8, 9, 7, 1]
+Epochs : 10000
+Error : 0.0004355818057429198
+Time : 93.58787908100203100
+
+
+Test name : decryptor_2_test
+Layers : [8, 9, 7, 1]
+Epochs : 10000
+Error : 0.0006820120673469476
+Time : 92.62139428799856100
+
+
+Test name : decryptor_3_test
+Layers : [8, 9, 7, 1]
+Epochs : 10000
+Error : 0.0003591720122547347
+Time : 95.0325535919983100
+
+
+Test name : decryptor_4_test
+Layers : [8, 10, 9, 1]
+Epochs : 10000
+Error : 0.00018185295307804084
+Time : 110.43629813900043100
+
+
+Test name : decryptor_5_test
+Layers : [8, 10, 9, 1]
+Epochs : 10000
+Error : 0.0004763366890585679
+Time : 110.2954682960044100
+
+
+Test name : decryptor_6_test
+Layers : [8, 9, 3, 1]
+Epochs : 10000
+Error : 0.0008040345598124228
+Time : 69.75215928500256100
+
+
+Test name : decryptor_7_test
+Layers : [8, 10, 9, 1]
+Epochs : 10000
+Error : 0.00022068807344541316
+Time : 110.53718047899747

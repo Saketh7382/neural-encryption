@@ -1,0 +1,56 @@
+Test name : decryptor_1_test
+Layers : [8, 18, 18, 4]
+Epochs : 10000
+Error : 7.012268735518518
+Decryption efficiency : 100 %
+Time : 273.68293932000233100
+
+
+Test name : decryptor_2_test
+Layers : [8, 18, 16, 4]
+Epochs : 10000
+Error : 2.0061145488776515
+Decryption efficiency : 100 %
+Time : 255.5854870289986100
+
+
+Test name : decryptor_3_test
+Layers : [8, 16, 8, 4]
+Epochs : 10000
+Error : 2.007673688067053
+Decryption efficiency : 100 %
+Time : 162.64616498300165100
+
+
+Test name : decryptor_4_test
+Layers : [8, 16, 8, 4]
+Epochs : 10000
+Error : 4.005558932923028
+Decryption efficiency : 100 %
+Time : 162.21587865900074100
+
+
+Test name : decryptor_5_test
+Layers : [8, 16, 4]
+Epochs : 10000
+Error : 2.0216903348758812
+Decryption efficiency : 100 %
+Time : 109.79633064399968100
+
+
+Test name : decryptor_6_test
+Layers : [8, 8, 4]
+Epochs : 10000
+Error : 13.421212309666021
+Decryption efficiency : 100 %
+Time : 67.04625746600504100
+
+
+Test name : decryptor_7_test
+Layers : [8, 12, 4]
+Epochs : 10000
+Error : 8.035926634759498
+Decryption efficiency : 100 %
+Time : 87.85233807599434100
+Test name : decryptor_8_test
+Layers : [8, 15, 4]

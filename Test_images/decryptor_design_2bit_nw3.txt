@@ -1,0 +1,17 @@
+Test name : decryptor_1_test
+Layers : [8, 9, 7, 2]
+Epochs : 10000
+Error : 5.011950928803987
+Time : 98.12906700099848100
+
+Test name : decryptor_2_test
+Layers : [8, 9, 7, 2]
+Epochs : 30000
+Error : 5.00142170223167
+Time : 293.78510403700056100
+
+Test name : decryptor_3_test
+Layers : [8, 10, 6, 2]
+Epochs : 30000
+Error : 8.000589513399701
+Time : 296.9883034190061

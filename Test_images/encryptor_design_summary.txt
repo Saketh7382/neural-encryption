@@ -1,0 +1,118 @@
+Test name : encryptor_1_test
+Layers : [8, 16, 16, 8]
+Epochs : 10000
+Error : 9.074706365976533
+Unique Predictions : 96
+Time : 271.755551004000152
+
+
+Test name : encryptor_2_test
+Layers : [8, 16, 16, 16, 8]
+Epochs : 10000
+Error : 191.78168610371947
+Unique Predictions : 1
+Time : 399.585340218000063
+
+
+Test name : encryptor_3_test
+Layers : [8, 8, 8]
+Epochs : 10000
+Error : 119.11772592899943
+Unique Predictions : 48
+Time : 85.217246636999334
+
+
+Test name : encryptor_4_test
+Layers : [8, 16, 8]
+Epochs : 10000
+Error : 40.87163598189729
+Unique Predictions : 79
+Time : 144.512670482999975
+
+
+Test name : encryptor_5_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 4.046990033922206
+Unique Predictions : 98
+Time : 317.484351882001656
+
+
+Test name : encryptor_6_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 16.027449405432577
+Unique Predictions : 92
+Time : 315.982028492999237
+
+
+Test name : encryptor_7_test
+Layers : [8, 19, 19, 8]
+Epochs : 10000
+Error : 20.026150810000512
+Unique Predictions : 86
+Time : 341.471472985002048
+
+
+Test name : encryptor_8_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 43.767938752074244
+Unique Predictions : 77
+Time : 318.43051240699799
+
+
+Test name : encryptor_9_test
+Layers : [8, 18, 18, 8]
+Epochs : 20000
+Error : 16.013155278346524
+Unique Predictions : 92
+Time : 635.13229815599710
+
+
+Test name : encryptor_10_test
+Layers : [8, 18, 16, 8]
+Epochs : 10000
+Error : 16.02504299390684
+Unique Predictions : 92
+Time : 291.183936494002411
+
+
+Test name : encryptor_11_test
+Layers : [8, 17, 17, 8]
+Epochs : 10000
+Error : 9.042556579409
+Unique Predictions : 96
+Time : 295.196914953998212
+
+
+Test name : encryptor_12_test
+Layers : [8, 18, 8, 18, 8]
+Epochs : 10000
+Error : 191.78179540427442
+Unique Predictions : 1
+Time : 319.2046099469989713
+
+
+Test name : encryptor_13_test
+Layers : [8, 18, 19, 8]
+Epochs : 10000
+Error : 6.018025452661745
+Unique Predictions : 98
+Time : 327.303448630998914
+
+
+Test name : encryptor_14_test
+Layers : [8, 18, 18, 8]
+Epochs : 20000
+Error : 7.014552430069891
+Unique Predictions : 97
+Time : 629.406348771000915
+
+
+Test name : encryptor_15_test
+Layers : [8, 18, 18, 8]
+Epochs : 10000
+Error : 139.85691147381243
+Unique Predictions : 35
+Time : 315.8461112410005
